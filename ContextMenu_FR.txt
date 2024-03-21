@@ -1,0 +1,17 @@
+ContextMenu_FR = {
+	ContextMenu_Add_Water_To_Trailer = "Remplir le Réservoir d'eau",
+
+	ContextMenu_VehicleAddWater = "Vider l'objet dans le réservoir",
+
+	ContextMenu_VehicleSiphonWater = "Ajouter de l'eau du réservoir",
+   
+	ContextMenu_VehicleAddSingleWater = "Ajouter de l'eau de<br>",
+   
+	ContextMenu_VehicleAddWaterToItem = "Remplir l'objet avec le réservoir",
+	ContextMenu_VehicleAddWaterToSingleItem = "<br>du réservoir",
+
+   ContextMenu_Open_TankLid = "Ouvrir le couvercle du réservoir"
+   ContextMenu_Close_TankLid = "Fermer le couvercle du réservoir"
+   
+   ContextMenu_Drain_Tank = "Drainer le réservoir"
+}

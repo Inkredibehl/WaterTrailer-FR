@@ -1,0 +1,7 @@
+ItemName_FR = {
+   ItemName_Rotators.WaterTrailerTankLid1 = "Couvercle de réservoir",
+   ItemName_Rotators.WaterTrailerTankLid2 = "Couvercle de réservoir",
+   ItemName_Rotators.WaterTrailerTankPump1 = "Pompe",
+   ItemName_Rotators.WaterTrailerTankPump2 = "Pompe",
+   ItemName_Rotators.WaterTrailerTankFilter2 = "Filtre à eau",
+}

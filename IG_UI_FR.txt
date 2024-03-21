@@ -1,0 +1,31 @@
+IG_UI_FR = {
+	IGUI_VehicleNameTrailerWaterSmall = "M149 Remorque à eau",
+	IGUI_VehicleNameTrailerWaterBig = "Remorque à eau",
+
+   IGUI_VehiclePartCatwatertank = "Réservoir d'eau",
+   
+   IGUI_VehiclePart1500WaterTank = "Citerne",
+   IGUI_VehiclePart3000WaterTank = "Citerne",
+   IGUI_VehiclePart5000WaterTank = "Citerne",
+   IGUI_Vehicle_CondInfo1500WaterTank = "Stocke l’eau. <LINE> Les réservoirs d’eau en mauvais état ont une capacité inférieure et peuvent fuir."
+   IGUI_Vehicle_CondInfo3000WaterTank = "Stocke l’eau. <LINE> Les réservoirs d’eau en mauvais état ont une capacité inférieure et peuvent fuir."
+   IGUI_Vehicle_CondInfo5000WaterTank = "Stocke l’eau. <LINE> Les réservoirs d’eau en mauvais état ont une capacité inférieure et peuvent fuir."
+
+   IGUI_VehiclePartTrunkRight = "Coffre droit",
+   IGUI_Vehicle_CondInfoTrunkRight = "Les coffres endommagés ont moins de capacité de stockage",
+   IGUI_VehiclePartTrunkDoorRight = "Couvercle droit du coffre",
+   IGUI_Vehicle_CondInfoTrunkDoorRight = "Un couvercle de coffre endommagé peut faire tomber des objets de votre véhicule",
+   IGUI_VehiclePartTrunkLeft = "Coffre gauche",
+   IGUI_Vehicle_CondInfoTrunkLeft = "Les coffres endommagés ont moins de capacité de stockage",
+   IGUI_VehiclePartTrunkDoorLeft = "Couvercle gauche du coffre",
+   IGUI_Vehicle_CondInfoTrunkDoorLeft = "Un couvercle de coffre endommagé peut faire tomber des objets de votre véhicule",
+   
+   IGUI_VehiclePartWaterTankLid = "Couvercle du réservoir",
+   IGUI_Vehicle_CondInfoWaterTankLid = "Un couvercle de réservoir ouvert ou endommagé peut entraîner la chute de l'eau de pluie dans le réservoir.",
+   
+   IGUI_VehiclePartWaterTankPump = "Pompe",
+   IGUI_Vehicle_CondInfoWaterTankPump = "Une pompe endommagée diminuera son efficacité et entraînera des temps de remplissage plus longs.",
+   
+   IGUI_VehiclePartWaterTankFilter = "Filtre",
+   IGUI_Vehicle_CondInfoWaterTankFilter = "L'eau impure coulera à travers le filtre et deviendra potable",
+}

@@ -1,0 +1,4 @@
+Tooltip_FR = {
+	Tooltip_item_DrinkableWater = "Sans danger pour la consommation"
+   Tooltip_item_WaterTrailerTankFilter = "Utilisé dans la remorque à eau M149 pour rendre l'eau potable."
+}
